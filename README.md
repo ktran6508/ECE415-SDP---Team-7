@@ -1,4 +1,4 @@
-Species Selective Bird Feeder
+Ecofeeder
 Team 7
 
 - Members:
